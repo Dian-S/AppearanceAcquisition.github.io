@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://AppearanceAcquisition.github.io/sitemap.xml
+Sitemap: https://AppearanceAcquisition.github.io/Dian-S/sitemap.xml
